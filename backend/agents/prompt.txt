@@ -1,0 +1,11 @@
+I'm optimizing the crystallinity of an aluminum-based MOF using a microwave-assisted synthesis method. Can you coordinate your team to help me improve the synthesis parameters and lab setup?
+
+Here are the details of the initial synthesis condition:
+- Linker-to-metal ratio: 1.5
+- Modulator: acetic acid
+- Concentration: 0.05 M
+- Linker-to-modulator ratio: 1:20
+- Reaction time: 15 minutes
+- Reaction temperature: 130°C
+
+Please propose three task options for next steps, and assign each one to a specialist in your team. I’m ready to proceed with their suggestions.

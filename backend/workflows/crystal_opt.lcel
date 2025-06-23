@@ -1,0 +1,7 @@
+input -> Atlas
+Atlas.output.plan -> Bohr
+Bohr.output.literature -> Curie
+Curie.output.code -> Deng
+Deng.output.status -> Edison
+Edison.output.equipment -> Atlas
+Atlas.output.final -> output

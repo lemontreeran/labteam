@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "labgpt"
+version = "0.1.0"
+description = "Multi-agent research lab using Google ADK"
+authors = ["Lemon Xing <your-email@example.com>"]
+packages = [{ include = "labgpt" }]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+google-adk = "^1.0.0"  
+openai = "*"           
+python-dotenv = "*"
+
+[tool.poetry.dev-dependencies]
+pytest = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

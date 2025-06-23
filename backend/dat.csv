@@ -1,0 +1,4 @@
+metal_amount,modulator,add_solvent,reaction_time,reaction_temperature,crystallinity
+0.1,AcOH,DMF,12,120,8.2
+0.2,AcOH,DEF,10,110,7.8
+0.15,EtOH,DMF,14,130,9.0
