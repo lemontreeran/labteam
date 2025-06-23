@@ -1,6 +1,6 @@
-# ChatGPT-Lab
+# LabTeam
 
-This repository contains the code for the **ChatGPT-Lab** project, which is used to optimize experimental conditions and automate reaction mixture preparation in a lab setting. This project makes use of machine learning and robotic process automation technologies.
+This repository contains the code for the **LabTeam** project, which is used to optimize experimental conditions and automate reaction mixture preparation in a lab setting. This project makes use of machine learning and robotic process automation technologies.
 
 ## Files
 
