@@ -22,7 +22,7 @@ const Header: React.FC = () => {
             </motion.div>
           </div>
           <div>
-            <h1 className="text-2xl font-bold gradient-text">ChatGPT-Lab</h1>
+            <h1 className="text-2xl font-bold gradient-text">LabTeam</h1>
             <p className="text-sm text-slate-600">AI-Powered Laboratory Automation</p>
           </div>
         </div>
